@@ -1,0 +1,13 @@
+# Personal configuration and credentials
+config.json
+.env
+.env.*
+*.log
+
+# Builds are distributed through GitHub Releases
+*.exe
+*.zip
+_internal/
+__pycache__/
+.DS_Store
+Thumbs.db
